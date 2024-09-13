@@ -1,0 +1,1 @@
+print (f'sum of two numbers are {10+2}')
